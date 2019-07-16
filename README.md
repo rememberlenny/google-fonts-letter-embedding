@@ -1,6 +1,6 @@
 # Google font letter analysis
 
-1. Get all the google font's files in the `/fonts` directory using: `git clone --depth 11 https://github.com/google/fonts.git`.
+1. Get all the google font's files in the `/fonts` directory using: `git clone --depth 1 https://github.com/google/fonts.git`.
 2. Install dependencies (`Pillow` and `tdqm`) using requirements.txt (ie. `pip install -r requirements.txt`).
 3. Run the jupyter notebook or `create_font_images.py` script.
 
